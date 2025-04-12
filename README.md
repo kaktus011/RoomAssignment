@@ -1,6 +1,7 @@
 # RoomAssignment
 
 RoomAssignment is a multithreaded Monte Carlo simulation for solving the Room Assignment Problem. It assigns students to rooms while minimizing penalties for exceeding room capacities and placing incompatible students in the same room.
+Please note that this is made to be used for experimentation on Grid5000 machines.
 
 ## Features
 - Multithreaded Monte Carlo simulation for efficient computation.
